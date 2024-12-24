@@ -1,0 +1,32 @@
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\bin\Debug\mobilesystem.exe.config
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\bin\Debug\mobilesystem.exe
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\bin\Debug\mobilesystem.pdb
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.AssemblyReference.cache
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.Form1.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.Properties.Resources.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.GenerateResource.cache
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.CoreCompileInputs.cache
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.exe
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.pdb
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_AddNewPhone.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Customer.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Stock.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Login.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_CustomerRecords.resources
+C:\Users\sandakirani\source\repos\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_DeletePhoneRecord.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\bin\Debug\mobilesystem.exe.config
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\bin\Debug\mobilesystem.exe
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\bin\Debug\mobilesystem.pdb
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.AssemblyReference.cache
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_AddNewPhone.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Customer.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_CustomerRecords.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_DeletePhoneRecord.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Login.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.AllUserControl.UC_Stock.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.Form1.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.Properties.Resources.resources
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.GenerateResource.cache
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.csproj.CoreCompileInputs.cache
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.exe
+D:\13UOK ACADEMIC20&21\3 RD YEAR\BECS 31242 - Visual Programming (2223)\presentation\mobilesystem\mobilesystem\mobilesystem\obj\Debug\mobilesystem.pdb
